@@ -1,4 +1,6 @@
 a {
   color: khaki;
-  bottom: 0px;
+  margin-bottom: 2.5px;
+  text-decoration: solid;
+  font-weight: 900;
 }
